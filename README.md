@@ -1,10 +1,6 @@
 <h1 align="center"><b>Holii, Welcome to my GitHub Profile </b></h1>
 <h2 align="center">🌟  About Me 🌟</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="200" alt="fun-gif">
-</p>
-
 <ul>
   <li>🎓 I’m a <strong>Data Science</strong> student, passionate about <b>statistical analysis</b> 📊 and machine learning 🤖.</li>
   <li>📚 My main areas of interest include: 
