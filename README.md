@@ -24,10 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=donut&theme=midnight-purple)
 
-<p align="center">
-    <a href="https://github.com/kmarcela11">
-        <img src="https://github-profile-trophy.vercel.app/?username=kmarcela11&column=-1&theme=dracula&layout=compact" width="95%"/>
-    </a>
-</p>
+
 
 
