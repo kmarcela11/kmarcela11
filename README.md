@@ -11,7 +11,7 @@
 </ul>
 
 
-### Technologies and Languages
+## Technologies and Languages
 
 ![RStudio](https://img.shields.io/badge/RStudio%20-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;  
 ![Shiny](https://img.shields.io/badge/Shiny%20-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;  
@@ -21,5 +21,13 @@
 ![SQL](https://img.shields.io/badge/SQL%20-%230072C6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp; 
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=donut&theme=midnight-purple)
+
+<p align="center">
+    <a href="https://github.com/kmarcela11">
+        <img src="https://github-profile-trophy.vercel.app/?username=kmarcela11&column=-1&theme=dracula&layout=compact" width="95%"/>
+    </a>
+</p>
 
 
