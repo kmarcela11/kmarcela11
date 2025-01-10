@@ -1,6 +1,5 @@
 <h1 align="center"><b>Holii, Welcome to my GitHub Profile </b></h1>
 
----
 
 <h2>About Me</h2>
 
@@ -11,7 +10,7 @@
   <li>💼 Outside of data, I enjoy activities like dancing and swimming, which help me recharge and stay creative.</li>
 </ul>
 
----
+
 
 ## Technologies and Languages
 
