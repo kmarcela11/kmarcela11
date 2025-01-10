@@ -22,6 +22,11 @@
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
+---
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kmarcela11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="KMarcela11" />
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=donut&theme=midnight-purple)
 
 
