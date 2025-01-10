@@ -4,17 +4,12 @@
 
 <ul>
   <li>🎓 I am a <strong>Data Science</strong> student, passionate about <b>statistical analysis</b> and <b>machine learning</b>.</li>
-  <li>📚 My main areas of interest include:
-    <ul>
-      <li>🧠 Machine Learning</li>
-      <li>📈 Time Series Analysis</li>
-      <li>🌍 Data Visualization and Decision Making</li>
-    </ul>
-  </li>
-  <li>🌱 I have experience working with meteorological data and am excited to explore fields such as medicine, finance, and particularly the oil industry..</li>
+  <li>📚 My main areas of interest include <strong>Machine Learning</strong>, <strong>Time Series Analysis</strong>, and <strong>Data Visualization and Decision Making</strong>.</li>
+  <li>🌱 I have experience working with meteorological data and am excited to explore fields such as medicine, finance, and particularly the oil industry.</li>
   <li>💼 Outside of data, I enjoy activities like dancing and swimming, which help me recharge and stay creative.</li>
   <li>🎉 My favorite day of the year is my birthday, <strong>November 11th</strong> (a special and meaningful date for me).</li>
 </ul>
+
 
 ### Technologies and Languages
 
