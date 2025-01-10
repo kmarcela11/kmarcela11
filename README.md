@@ -1,5 +1,5 @@
 <h1 align="center"><b>Holii, Welcome to my GitHub Profile </b></h1>
-<h2 align="center">🌟  About Me 🌟</h2>
+<h2> &nbsp;About Me</h2>
 
 <ul>
   <li>🎓 I’m a <strong>Data Science</strong> student, passionate about <b>statistical analysis</b> 📊 and machine learning 🤖.</li>
