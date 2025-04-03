@@ -18,7 +18,7 @@
 
 ---
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kmarcela11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="KMarcela11" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kmarcela11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="kmarcela11" />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=donut&theme=midnight-purple)
