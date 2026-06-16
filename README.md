@@ -30,6 +30,4 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmarcela11&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmarcela11&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarcela11&layout=compact)
