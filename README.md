@@ -4,11 +4,14 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>🎓 I am a <strong>Data Science</strong> student, passionate about <b>statistical analysis</b> and <b>machine learning</b>.</li>
-  <li>📚 My main areas of interest include <strong>Machine Learning</strong>, <strong>Time Series Analysis</strong>, and <strong>Data Visualization and Decision Making</strong>.</li>
-  <li>🌱 I have experience working with meteorological data and am excited to explore fields such as medicine, finance, and particularly the oil industry.</li>
-  <li>💼 Outside of data, I enjoy activities like dancing and swimming, which help me recharge and stay creative.</li>
+  <li>📊 I am a <strong>Data Scientist</strong> focused on transforming data into actionable insights through <strong>statistical modeling</strong>, <strong>machine learning</strong>, and data-driven decision making.</li>
+  <li>🤖 My main interests include <strong>Machine Learning</strong>, <strong>Time Series Forecasting</strong>, <strong>Predictive Analytics</strong>, and <strong>Data Visualization</strong>.</li>
+  <li>🌦️ I have worked with <strong>meteorological</strong> and <strong>healthcare data</strong>, developing analytical solutions, predictive models, and decision-support tools.</li>
+  <li>⚡ I am particularly interested in applying data science to the <strong>Energy</strong>, <strong>Oil & Gas</strong>, <strong>Healthcare</strong>, and <strong>Finance</strong> sectors.</li>
+  <li>🚀 I enjoy building end-to-end data solutions, from data acquisition and feature engineering to model deployment and monitoring.</li>
+  <li>💃🏊 Outside of data, I enjoy dancing and swimming, which help me stay creative and maintain a balanced lifestyle.</li>
 </ul>
+
 
 
 
